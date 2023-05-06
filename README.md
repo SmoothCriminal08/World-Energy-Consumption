@@ -6,7 +6,7 @@ World energy consumption is an important feature of contemporary civilization si
 # Problem Statement
 # Objectives
 # Analysis
-# Implementation (README.md/Implementation.md)
+##### Project implementation: (README.md/Implementation.md)
 ## Following are the steps in deploying the data visualizaation 
 # How to run
 
