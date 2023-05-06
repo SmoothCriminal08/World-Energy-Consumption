@@ -17,7 +17,7 @@ There are several key purposes analyzing energy consumptions with the most impor
 
 Over the time, energy consumption has shown an increase in pattern steadily, driven by population growth, economic development, and urbanization. This issue has led us to the establishment of Sustainable Development Goals (SDGs) No. 7 which is Affordable and Clean Energy by the United Nations in 2015. This goal has the purpose of ensuring access to affordable, reliable, sustainable, and modern energy for all. The aim acknowledges the significance of energy availability for economic growth, poverty reduction, and long-term development. It also recognises the importance of transitioning away from fossil fuels and towards sustainable and renewable energy sources in order to prevent climate change and reduce greenhouse gas emissions.
 
-![alt text](http://url/to/img.png)
+![alt text](https://sdgs.un.org/sites/default/files/2022-07/SDG%20Report%202022_Goal%207%20infographic.png)
 
 # Implementation
 ##### [Project Implementation](Implementation/Implementation.md)
