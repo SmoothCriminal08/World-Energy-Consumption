@@ -26,7 +26,7 @@
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/121603164/236641305-a2d5f695-5422-4dcd-a2a4-0e3f5f50d398.png">
 ![image](https://user-images.githubusercontent.com/121603164/236641322-4dc74d67-6fb9-4c98-92cc-f9c8399f631e.png)
 
-# 7. Slicing through the years for 2010-2015 VS 2015-2020
+# 7. Slicing through the years for 2010-2015 VS 2016-2020
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/121603164/236641497-1f8e6125-4b0f-418b-94e1-e4abb4c220e3.png">
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121603164/236641474-8de1746b-0e0c-40c7-86e9-e24883144d3b.png">
 ![image](https://user-images.githubusercontent.com/121603164/236641516-5e68d516-99f6-4cfe-b683-05d77afd8422.png)
