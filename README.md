@@ -1,4 +1,4 @@
-## World Energy Consumption
+
 # Introduction 
 # Problem Statement
 # Objectives
