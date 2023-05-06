@@ -15,7 +15,7 @@ The aim of analyzing energy consumption is to comprehend how energy is used and 
 
 There are several key purposes analyzing energy consumptions with the most important key which is to identify trends and patterns. Over the time, the data of energy consumption has shown an increase in pattern steadily, driven by population growth, economic development, and urbanization. To simply put, this analyzed data can be used not just to forecast future energy consumption but to identify locations where energy-saving measures might be implemented.
 
-Moreover, these data may be used to make improvements in terms of energy efficiency. The analysis of energy consumptions can help with detecting areas where energy efficiency solutions are needed.  Hence, this implementation of the solution will give impact in minimizing energy usage and lower the expenses of a country especially for the consumption of non renewable energy used.
+Moreover, these data may be used to make improvements in terms of energy efficiency. The analysis of energy consumptions can help with detecting areas where energy efficiency solutions are needed.  Hence, this implementation of the solution will give impact in minimizing energy usage and lower the expenses of a country especially for the expenditure for the non renewable energy used.
 
 
 # Implementation
