@@ -11,6 +11,7 @@ World energy consumption is an important feature of contemporary civilization si
 3) To promote awareness and action towards sustainable energy use around the world.
 
 # Analysis
+The aim of analyzing the World Energy Consumption is to comprehend how energy is used and where it originates from in order to discover possibilities for improving efficiency, minimizing expenditure, and reducing environmental consequences. Hence, more informed and better understanding decisions about energy usage and its investments can be made by policymakers, corporations, and people.
 
 # Implementation
 ##### [Project Implementation](Implementation/Implementation.md)
