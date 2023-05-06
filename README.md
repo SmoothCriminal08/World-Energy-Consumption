@@ -13,7 +13,7 @@ World energy consumption is an important feature of contemporary civilization si
 # Analysis
 
 # Implementation
-##### Project implementation: (Implementation/Implementation.md)
+(https://github.com/SmoothCriminal08/Data-Science-to-Improve-Humanity/blob/main/Implementation/Implementation.md)
 Following are the steps in deploying the data visualization 
 
 # How to run
