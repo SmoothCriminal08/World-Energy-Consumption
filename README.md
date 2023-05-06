@@ -13,10 +13,9 @@ World energy consumption is an important feature of contemporary civilization si
 # Analysis
 The aim of analyzing energy consumption is to comprehend how energy is used and where it originates from in order to discover possibilities for improving efficiency, minimizing expenditure, and reducing environmental consequences. Hence, more informed and better understanding decisions about energy usage and its investments can be made by policymakers, corporations, and people.
 
-There are several key purposes analyzing energy consumptions with the most important key which is to identify trends and patterns. Over the time, the data of energy consumption has shown an increase in pattern steadily, driven by population growth, economic development, and urbanization. To simply put, this analyzed data can be used not just to forecast future energy consumption but to identify locations where energy-saving measures might be implemented.
+There are several key purposes analyzing energy consumptions with the most important key which is to identify trends and patterns. To simply put, this analyzed data can be used not just to forecast future energy consumption but to identify locations where energy-saving measures might be implemented. Moreover, these data may be used to make improvements in terms of energy efficiency. The analysis of energy consumptions can help with detecting areas where energy efficiency solutions are needed.  Hence, this implementation of the solution will give impact in minimizing energy usage and lower the expenses of a country especially for the expenditure for the non renewable energy used.
 
-Moreover, these data may be used to make improvements in terms of energy efficiency. The analysis of energy consumptions can help with detecting areas where energy efficiency solutions are needed.  Hence, this implementation of the solution will give impact in minimizing energy usage and lower the expenses of a country especially for the expenditure for the non renewable energy used.
-
+Over the time, energy consumption has shown an increase in pattern steadily, driven by population growth, economic development, and urbanization. This issue has led us to the establishment of Sustainable Development Goals (SDGs) No. 7 which is Affordable and Clean Energy by the United Nations in 2015. This goal has the purpose of ensuring access to affordable, reliable, sustainable, and modern energy for all.
 
 # Implementation
 ##### [Project Implementation](Implementation/Implementation.md)
