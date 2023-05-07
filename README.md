@@ -23,6 +23,8 @@ Over the time, energy consumption has shown an increase in pattern steadily, dri
 ##### [Project Implementation](Implementation/Implementation.md)
 Following are the steps in deploying the data visualization 
 
+# Conclusion
+
 # How to run
 1) Upload the dataset of Wold Energy Consumption.csv into Google Colab.
 2) Upload coding in Google Colab.
