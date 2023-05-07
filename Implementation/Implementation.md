@@ -39,7 +39,7 @@
 
 The chart below shows Japan's electricity source distribution over the years. It consists of 7 sources of energy, which are "coal electricity," "oil electricity," "gas electricity," "hydroelectricity," "nuclear electricity," "wind electricity," and "solar electricity." The linear plot is being used to visualise the trends of each source over the years. We also do a comparison of electricity distribution in 2000 and 2020 and visualise it in the pie charts.
 
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/121603164/236641583-806bb062-4830-405c-b1cc-cb6c338d09f8.png">
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/121603164/236679392-94f5a4a1-c661-4005-8bdb-c5e5cbb7826a.png">
 
 The output below illustrates Japan's electricity source distribution from 1990 to 2020. In 2011, there were significant changes in nuclear, oil, gas, and coal. This is due to the Great East Japan Earthquake.
 
