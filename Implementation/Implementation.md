@@ -40,6 +40,6 @@
 
 # 10. Electricty source distribution in Malaysia
 <img width="563" alt="image" src="https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Malaysia.png">
-
+https://colab.research.google.com/drive/1l2abFwXihv48GWUDO9u2AEeR8zI-ByZB#scrollTo=H8n4mD5xMEr-&line=6&uniqifier=1
 
 
