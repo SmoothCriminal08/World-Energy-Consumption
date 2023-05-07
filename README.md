@@ -3,6 +3,12 @@
 
 World energy consumption is an important feature of contemporary civilization since it supports human activities such as transportation, heating and cooling, and power generation. Energy consumption has risen in tandem with global population and economic expansion, resulting in severe environmental consequences such as greenhouse gas emissions and climate change. To comprehend the magnitude of energy consumption and encourage sustainable energy practices, it is crucial to use visualization tools that aid in promoting awareness and action.
 
+Team members:
+Aina Syazzween Suraya Binti Abdul Latif (B032010027)
+Thiveya A/P Mahendran (B032010296)
+Nursyaza Nisa Binti Arfariza (B032010244)
+
+Nur Syuhada Binti Azhar (B032010378)
 # Problem Statement
 
 According to IEA World Energy Outlook 2022, the global population has been expected to increase by about two billion over the next two decades, and with improving standards of living, it is estimated that electricity consumption will increase 50% from 2021 to 2040. Regardless of the source of energy, demand is growing and in this time of global market the most important thing the world needs is energy and we need it in increasing quantity to support economic growth and build a better quality of life, especially in developing countries. Nevertheless, providing this energy around the globe comes with a responsibility and commitment where we need to use the resources responsibly. We have come up with this project World Energy Consumption to keep track of the energy usage in selected countries and the type of energy mainly used in that particular country because different countries use different types of energy, so it’s difficult to say who uses the most. With the energy consumption data, we can monitor the high usages of energy and find alternatives to use it efficiently.
