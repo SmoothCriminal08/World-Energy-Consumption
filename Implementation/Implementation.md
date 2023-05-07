@@ -1,8 +1,11 @@
 # 1. Importing Libraries
+
+Import the important libraries 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/121603164/236640720-aebd3d4f-b1b0-4cb7-985a-19733f7b87f9.png">
 
 
 # 2. Importing the dataFrame
+
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/121603164/236640856-402cb1dc-00e7-40b3-b26d-f39ac2c01a4a.png">
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/121603164/236640836-67d8424a-fd45-4bf7-a3c3-36559738f93d.png">
 
