@@ -39,7 +39,7 @@ The chart below shows Japan's electricity source distribution over the years. It
 
 The output below illustrates Japan's electricity source distribution from 1990 to 2020. In 2011, there were significant changes in nuclear, oil, gas, and coal. This is due to the Great East Japan Earthquake.
 
-![image](https://user-images.githubusercontent.com/121603164/236641592-3f608295-06a9-447f-9920-a8ee7e0fb3ee.png)
+![image](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Japan.png)
 
 # 9. Electricty source distribution in India
 <img width="563" alt="image" src="https://user-images.githubusercontent.com/121595811/236664837-219ff294-2e3d-4309-bba8-a479e1b7352b.png">
