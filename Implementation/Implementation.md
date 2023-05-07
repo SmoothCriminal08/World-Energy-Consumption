@@ -54,7 +54,7 @@ Based on the graph, USA has shown an increasing trend and has the highest GDP pe
 
 ![alt text](https://github.com/SmoothCriminal08/Data-Science-to-Improve-Humanity/blob/main/source code/%GPDPopu.png)
 
-Visualize the comparison GDP , Population and GDP per capita over countries in the year of 2010-2015 and 2015-2020
+Visualize the comparison graph of GDP, Population and GDP per capita each country in the year of 2010-2015 and 2015-2020
 
 # 8. Electricty source distribution in Japan
 
