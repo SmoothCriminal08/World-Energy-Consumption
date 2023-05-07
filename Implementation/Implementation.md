@@ -35,6 +35,10 @@
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/121603164/236641583-806bb062-4830-405c-b1cc-cb6c338d09f8.png">
 ![image](https://user-images.githubusercontent.com/121603164/236641592-3f608295-06a9-447f-9920-a8ee7e0fb3ee.png)
 
+# 9. Electricty source distribution in India
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/121595811/236664837-219ff294-2e3d-4309-bba8-a479e1b7352b.png">
+
+
 
 
 
