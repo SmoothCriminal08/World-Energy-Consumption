@@ -12,7 +12,7 @@ First, we will import the dataset of World Energy Consumption that is obtained f
 The program will show the list of the first 10 dataset of country in descending order from the World Energy Consumption data and display it with all the selected attributes. The attributes are 'country','year','coal_production','electricity_generation','biofuel_electricity','coal_electricity','fossil_electricity','gas_electricity','hydro_electricity','nuclear_electricity','oil_electricity'      'renewables_electricity','oil_production','population','gdp','solar_electricity','wind_electricity','energy_per_gdp','energy_per_capita','fossil_share_elec','gas_share_elec','gas_production','low_carbon_share_elec'
 
 # 3. Heatmap Matrix Correlation
-Figure below shows the heatmap matrix correlation between the attributes.
+Figure below shows the heatmap matrix correlation between the attributes. This correlation heatmap is used for us to find potential relationships between variables and to understand the strength of these relationships.
 
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/121603164/236640973-767be2a3-d6c8-4418-a30d-58dce10dde26.png">
 
