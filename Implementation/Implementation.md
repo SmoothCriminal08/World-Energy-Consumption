@@ -44,6 +44,8 @@ Select the color scheme pallete for the visualization of data.
 
 ![image](https://user-images.githubusercontent.com/121603164/236641322-4dc74d67-6fb9-4c98-92cc-f9c8399f631e.png)
 
+Based on the graph, USA has shown an increasing trend and has the highest GDP per capita. China follows the USA with being the second most highest GDP oer capitaa. These two countries monopolized the graph as both countries have high population.
+
 # 7. Slicing through the years for 2010-2015 VS 2016-2020
 
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/121603164/236641497-1f8e6125-4b0f-418b-94e1-e4abb4c220e3.png">
