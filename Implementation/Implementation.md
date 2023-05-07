@@ -54,6 +54,8 @@ Based on the graph, USA has shown an increasing trend and has the highest GDP pe
 
 ![alt text](https://github.com/SmoothCriminal08/Data-Science-to-Improve-Humanity/blob/main/source code/%GPDPopu.png)
 
+Visualize the comparison GDP , Population and GDP per capita over countries in the year of 2010-2015 and 2015-2020
+
 # 8. Electricty source distribution in Japan
 
 The chart below shows Japan's electricity source distribution over the years. It consists of 7 sources of energy, which are "coal electricity," "oil electricity," "gas electricity," "hydroelectricity," "nuclear electricity," "wind electricity," and "solar electricity." The linear plot is being used to visualise the trends of each source over the years. We also do a comparison of electricity distribution in 2000 and 2020 and visualise it in the pie charts.
