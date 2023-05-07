@@ -5,6 +5,9 @@ World energy consumption is an important feature of contemporary civilization si
 
 # Problem Statement
 
+Energy prices have been rising since 2021 because of the rapid economic recovery, weather conditions in various parts of the world, maintenance work that had been delayed by the pandemic, and earlier decisions by oil and gas companies and exporting countries to reduce investments.
+
+
 # Objectives
 1) To investigate the scale of energy consumption around the world.
 2) To understand the trends of energy consumption using data visualization tools such as graph and pie chart.
@@ -24,6 +27,9 @@ Over the time, energy consumption has shown an increase in pattern steadily, dri
 Following are the steps in deploying the data visualization 
 
 # Conclusion
+
+
+
 
 # How to run
 1) Upload the dataset of Wold Energy Consumption.csv into Google Colab.
