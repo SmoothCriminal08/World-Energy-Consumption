@@ -12,18 +12,26 @@ Import the dataset and display dataframe of these eight countries: Egypt, New Ze
 
 
 # 3. Heatmap Matrix Correlation
+
+Visualize the multiple variables using correlation heatmap as a color-coded matrix. This shows the strength of relationships between numerical values.
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/121603164/236640973-767be2a3-d6c8-4418-a30d-58dce10dde26.png">
 
 ![alt text](https://user-images.githubusercontent.com/121603164/236641001-fdf564c7-0a10-49ad-a809-447df8ea6911.png)
 
 
 # 4. Cleaning the data
+
+Clean the dataset by removing null values and fill it backwards.
+
 <img width="192" alt="image" src="https://user-images.githubusercontent.com/121603164/236641018-715d5c76-d1b4-4218-8a97-d868edb09e8c.png">
 <img width="99" alt="image" src="https://user-images.githubusercontent.com/121603164/236641034-aa1977d3-f0a7-4d77-b737-fdd76b1c618f.png">
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/121603164/236641205-5663e06c-8537-478e-b120-8e09824ab2d8.png">
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/121603164/236641225-2207885b-17c5-4d97-97f4-bf5a9ac0eb5d.png">
 
 # 5. Selecting the color scheme
+
+Select the color scheme pallete for the visualization that we will be performing.
+
 <img width="138" alt="image" src="https://user-images.githubusercontent.com/121603164/236641252-489abe3d-1d47-41f0-83ed-95824f8fa290.png">
 
 ![image](https://user-images.githubusercontent.com/121603164/236641273-737e5f02-03cc-406c-91bc-bebdd9d573a8.png)
