@@ -32,21 +32,47 @@ After:
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/121603164/236641205-5663e06c-8537-478e-b120-8e09824ab2d8.png">
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/121603164/236641225-2207885b-17c5-4d97-97f4-bf5a9ac0eb5d.png">
 
-# 5. Selecting the color scheme
+# 5. Training the data
+
+The important libraries have been imported to enable the coding to make code in one module available in another and also for structuring the code effectively.
+
+![image](https://user-images.githubusercontent.com/121591873/236680375-b17d15ca-558d-4b88-9993-089f1573d9b8.png)
+
+Then we load the csv file of the dataset for the panda to read the dataframe.
+
+![image](https://user-images.githubusercontent.com/121591873/236680413-d265cf80-ee67-492f-b1b0-5ec32e17b289.png)
+
+The important features are then split into x and y for testing and training purposes.
+
+![image](https://user-images.githubusercontent.com/121591873/236680500-7137aa97-bc52-424f-ba52-c79640f05d2a.png)
+
+![image](https://user-images.githubusercontent.com/121591873/236680525-517411f0-0b87-46c7-83ca-e57794460da1.png)
+
+![image](https://user-images.githubusercontent.com/121591873/236680548-7c05004d-385e-4a67-a044-2d9925c563af.png)
+
+![image](https://user-images.githubusercontent.com/121591873/236680579-1c104a54-0715-4929-bbd1-1c1e6271f81a.png)![image](https://user-images.githubusercontent.com/121591873/236680619-66fb7312-2209-4bce-8e8e-0b6481cd0eaf.png)
+
+Multiple linear regression machine algorithm has been implemented to train the data and the training set R2 has an accuracy score of 0.3192718568885481. For the testing set, the accuracy is 0.3145148369408486.
+ 
+![image](https://user-images.githubusercontent.com/121591873/236680781-1b3a99ba-440a-443d-a7ef-32e6fa1c5e8b.png)
+
+
+
+# 6. Selecting the color scheme
 <img width="138" alt="image" src="https://user-images.githubusercontent.com/121603164/236641252-489abe3d-1d47-41f0-83ed-95824f8fa290.png">
 
 ![image](https://user-images.githubusercontent.com/121603164/236641273-737e5f02-03cc-406c-91bc-bebdd9d573a8.png)
 
 Select the color scheme pallete for the visualization of data.
 
-# 6. GDP Vs Population Trends
+# 7. GDP Vs Population Trends
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/121603164/236641305-a2d5f695-5422-4dcd-a2a4-0e3f5f50d398.png">
 
 ![image](https://user-images.githubusercontent.com/121603164/236641322-4dc74d67-6fb9-4c98-92cc-f9c8399f631e.png)
 
 Based on the graph, USA has shown an increasing trend and has the highest GDP per capita. China follows the USA with being the second most highest GDP oer capitaa. These two countries monopolized the graph as both countries have high population.
 
-# 7. Slicing through the years for 2010-2015 VS 2016-2020
+# 8. Slicing through the years for 2010-2015 VS 2016-2020
 
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/121603164/236641497-1f8e6125-4b0f-418b-94e1-e4abb4c220e3.png">
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121603164/236641474-8de1746b-0e0c-40c7-86e9-e24883144d3b.png">
@@ -56,7 +82,7 @@ Based on the graph, USA has shown an increasing trend and has the highest GDP pe
 
 Visualize the comparison graph of GDP, Population and GDP per capita each country in the year of 2010-2015 and 2015-2020
 
-# 8. Electricty source distribution in Japan
+# 9. Electricty source distribution in Japan
 
 The chart below shows Japan's electricity source distribution over the years. It consists of 7 sources of energy, which are "coal electricity," "oil electricity," "gas electricity," "hydroelectricity," "nuclear electricity," "wind electricity," and "solar electricity." The linear plot is being used to visualise the trends of each source over the years. We also do a comparison of electricity distribution in 2000 and 2020 and visualise it in the pie charts.
 
@@ -66,14 +92,14 @@ The output below illustrates Japan's electricity source distribution from 1990 t
 
 ![image](https://user-images.githubusercontent.com/121603164/236679527-b0fdb6bb-3b65-4b2a-83a7-9c974bcddb64.png)
 
-# 9. Electricty source distribution in India
+# 10. Electricty source distribution in India
 <img width="472" alt="image" src="https://user-images.githubusercontent.com/121603164/236679222-f898e252-6d43-492e-b01e-b77c8f9ea71c.png">
 
 The pie chart for India's electrcity indicate changes especially for the use of wind electricity and solar electricity starting from year 2010 onwards.
 
 ![India](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/India.png)
 
-# 10. Electricty source distribution in Malaysia 
+# 11. Electricty source distribution in Malaysia 
 
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/122136926/236666505-1a817eef-20d2-4755-93b5-b73cd9475962.png">
 
