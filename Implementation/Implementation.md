@@ -52,7 +52,7 @@ Based on the graph, USA has shown an increasing trend and has the highest GDP pe
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121603164/236641474-8de1746b-0e0c-40c7-86e9-e24883144d3b.png">
 
 
-![alt text](https://github.com/SmoothCriminal08/Data-Science-to-Improve-Humanity/blob/main/source code/%GPDPopu.png)
+![alt text](![image](https://user-images.githubusercontent.com/122136926/236682517-3cff2f51-5c11-4a06-9481-feec8f22b93a.png)
 
 Visualize the comparison graph of GDP, Population and GDP per capita each country in the year of 2010-2015 and 2015-2020
 
