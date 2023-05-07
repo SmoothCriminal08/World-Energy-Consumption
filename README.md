@@ -30,6 +30,10 @@ Following are the steps in deploying the data visualization
 
 # Conclusion
 
+With the statistics we have attained from the World Energy Consumption dataset we may now have knowledge to know which countries uses more energy and they can combat the rising issues that comes with over using the energy resources by studying energy statistics on global energy consumption patterns. Many countries are taking efforts to rely on reusable energy sources to meet their demands even as global energy demand keeps rising. 
+In the near future, it is possible that this world can run fully run on reusable energy supply in the future. Until that time, it is in the best interest of humanity and all countries in therld to make efforts to reduce the amount of energy we use on a daily basis. 
+
+
 
 
 
