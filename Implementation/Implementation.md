@@ -37,6 +37,8 @@ After:
 
 ![image](https://user-images.githubusercontent.com/121603164/236641273-737e5f02-03cc-406c-91bc-bebdd9d573a8.png)
 
+Select the color scheme pallete for the visualization of data.
+
 # 6. GDP Vs Population Trends
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/121603164/236641305-a2d5f695-5422-4dcd-a2a4-0e3f5f50d398.png">
 
