@@ -16,6 +16,7 @@ Figure below shows the heatmap matrix correlation between the attributes.
 
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/121603164/236640973-767be2a3-d6c8-4418-a30d-58dce10dde26.png">
 
+The higher correlation has blue shade whereas lower correlation is in the pink shade.
 ![alt text](https://user-images.githubusercontent.com/121603164/236641001-fdf564c7-0a10-49ad-a809-447df8ea6911.png)
 
 
