@@ -9,7 +9,6 @@
 
 # 3. Heatmap Matrix Correlation
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/121603164/236640973-767be2a3-d6c8-4418-a30d-58dce10dde26.png">
-<img width="533" alt="image" src="https://user-images.githubusercontent.com/121595811/236673009-541d6f9f-dd3a-4771-bdb9-ff9950eb6fd6.png">
 
 ![alt text](https://user-images.githubusercontent.com/121603164/236641001-fdf564c7-0a10-49ad-a809-447df8ea6911.png)
 
@@ -22,15 +21,18 @@
 
 # 5. Selecting the color scheme
 <img width="138" alt="image" src="https://user-images.githubusercontent.com/121603164/236641252-489abe3d-1d47-41f0-83ed-95824f8fa290.png">
+
 ![image](https://user-images.githubusercontent.com/121603164/236641273-737e5f02-03cc-406c-91bc-bebdd9d573a8.png)
 
 # 6. GDP Vs Population Trends
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/121603164/236641305-a2d5f695-5422-4dcd-a2a4-0e3f5f50d398.png">
+
 ![image](https://user-images.githubusercontent.com/121603164/236641322-4dc74d67-6fb9-4c98-92cc-f9c8399f631e.png)
 
 # 7. Slicing through the years for 2010-2015 VS 2016-2020
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/121603164/236641497-1f8e6125-4b0f-418b-94e1-e4abb4c220e3.png">
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121603164/236641474-8de1746b-0e0c-40c7-86e9-e24883144d3b.png">
+
 ![alt text](https://github.com/SmoothCriminal08/Data-Science-to-Improve-Humanity/blob/main/source code/%GPDPopu.png)
 
 # 8. Electricty source distribution in Japan
@@ -45,10 +47,12 @@ The output below illustrates Japan's electricity source distribution from 1990 t
 
 # 9. Electricty source distribution in India
 <img width="563" alt="image" src="https://user-images.githubusercontent.com/121595811/236664837-219ff294-2e3d-4309-bba8-a479e1b7352b.png">
+
 ![India](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/India.png)
 
 # 10. Electricty source distribution in Malaysia
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/122136926/236666505-1a817eef-20d2-4755-93b5-b73cd9475962.png">
+
 ![Malaysia](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Malaysia.png)
 
 
