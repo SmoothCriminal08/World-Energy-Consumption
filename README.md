@@ -12,7 +12,7 @@ Aina Syazzween Suraya Binti Abdul Latif (B032010027)
 Thiveya A/P Mahendran (B032010296)
 
 
-Nursyaza Nisa Binti Arfariza (B032010244)
+Nursyaza Nisa Binti Arfarizal (B032010244)
 
 
 Nur Syuhada Binti Azhar (B032010378)
