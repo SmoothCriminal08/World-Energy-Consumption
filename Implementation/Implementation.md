@@ -46,6 +46,6 @@ The output below illustrates Japan's electricity source distribution from 1990 t
 
 # 10. Electricty source distribution in Malaysia
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/122136926/236666505-1a817eef-20d2-4755-93b5-b73cd9475962.png">
-[![Malaysia](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Malaysia.png)
+![Malaysia](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Malaysia.png)
 
 
