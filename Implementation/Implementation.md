@@ -46,7 +46,7 @@ The output below illustrates Japan's electricity source distribution from 1990 t
 ![Japan](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Japan.png)
 
 # 9. Electricty source distribution in India
-<img width="563" alt="image" src="https://user-images.githubusercontent.com/121595811/236664837-219ff294-2e3d-4309-bba8-a479e1b7352b.png">
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/121603164/236679222-f898e252-6d43-492e-b01e-b77c8f9ea71c.png">
 
 The pie chart for India's electrcity indicate changes especially for the use of wind electricity and solar electricity starting from year 2010 onwards.
 
