@@ -52,13 +52,11 @@ The pie chart for India's electrcity indicate changes especially for the use of 
 
 ![India](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/India.png)
 
-# 10. Electricty source distribution in Malaysia
-
-Below shows the data visualization for Malaysia's electricity source distribution over the years. It can be seen coal, gas and oil are the important sources of electricity in Malaysia. On the other hand, solar electricity and hydro electricity is a growing source in electricity generation in Malaysia.
+# 10. Electricty source distribution in Malaysia 
 
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/122136926/236666505-1a817eef-20d2-4755-93b5-b73cd9475962.png">
 
-Pie chart below shows the comparison of electricity generation in Malaysia within past years with insights that causes impacts on the trend of electricity generation in Malaysia.
+Pie chart below shows the comparison of electricity generation in Malaysia within past years with insights that causes impacts on the trend of electricity generation in Malaysia. It can be seen coal, gas and oil are the important sources of electricity in Malaysia. On the other hand, the solar electricity and hydro electricity is a growing source in electricity generation in Malaysia. 
 
 ![Malaysia](https://github.com/SmoothCriminal08/World-Energy-Consumption/blob/main/Images/Malaysia.png)
 
